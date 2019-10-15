@@ -1,0 +1,20 @@
+{
+  "name": "get-zodiac-sign",
+  "version": "1.0.3",
+  "description": "Get your zodiac sing super easy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "zodiac",
+    "sign",
+    "horoscope",
+    "birthday"
+  ],
+  "author": "Facundo Gait",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
